@@ -524,6 +524,7 @@ footer {
 }
 .extended-list .description {
   width: 370px;
+  background-color: #ffffff;
 }
 
 .filter .header {
